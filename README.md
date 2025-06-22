@@ -1,7 +1,7 @@
 # Google-Stock-Market-2020-25
 This project provides a detailed exploratory data analysis (EDA) of **GOOGL (Google) stock prices** from 2020 to 2025 using Python. It includes data cleaning, feature engineering, and insightful visualizations to uncover trends, volatility, and stock behavior over time.
 
-![Image](https://github.com/user-attachments/assets/d2306129-4742-4084-a71e-36a6b52ee5d1)
+![Image](https://github.com/user-attachments/assets/8122b6f3-dcd8-43fb-8aab-aeb831831fd9)
 
 
 ## 📊 Project Steps
